@@ -1,35 +1,35 @@
-# Personal Tour Guide Website
+# 个人导游网站
 
-A beautiful personal tour guide website designed with UI/UX Pro Max skill.
+一个使用 UI/UX Pro Max 技能设计的精美个人导游网站。
 
-**Author: zentrix566**
+**作者：zentrix566**
 
-## Tech Stack
+## 技术栈
 
 - [Next.js](https://nextjs.org) 16
 - Tailwind CSS
-- Lucide Icons
+- Lucide 图标
 
-## Features
+## 功能特性
 
-- **Homepage** - High contrast hero section, three service cards with glowing borders, professional pricing table
-- **Login Page** - Clean static login page with social login options
-- Linear.app inspired minimal aesthetic
-- Dark blue background with white text and gold accents
+- **首页** - 高对比度首屏区域，三张带发光边框的服务卡片，专业的价格表
+- **登录页** - 简洁的静态登录页面，支持社交登录选项
+- 借鉴 Linear.app 的极简美学风格
+- 深蓝色背景配白色文字与金色点缀
 
-## Getting Started
+## 开始使用
 
 ```bash
 npm run dev
-# or
+# 或者
 yarn dev
-# or
+# 或者
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+在浏览器中打开 [http://localhost:3000](http://localhost:3000) 查看结果。
 
-## Pages
+## 页面
 
-- `/` - Homepage
-- `/login` - Login page
+- `/` - 首页
+- `/login` - 登录页
